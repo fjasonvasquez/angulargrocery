@@ -1,0 +1,13 @@
+.done-true{
+	text-decoration: line-through;
+	color: gray;
+}
+
+body {
+	background-color: green;
+	text-align: center;
+}
+
+h1, h2 {
+	font-family: "Verdana", monospace;
+}
