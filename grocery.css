@@ -4,10 +4,14 @@
 }
 
 body {
-	background-color: green;
-	text-align: center;
+	background-color: black;
+}
+
+li {
+	color: white;
 }
 
 h1, h2 {
-	font-family: "Verdana", monospace;
+	font-family: "Times New Roman", monospace;
+	color: white;
 }
