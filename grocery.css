@@ -1,0 +1,17 @@
+.done-true{
+	text-decoration: line-through;
+	color: gray;
+}
+
+body {
+	background-color: black;
+}
+
+li {
+	color: white;
+}
+
+h1, h2 {
+	font-family: "Times New Roman", monospace;
+	color: white;
+}
